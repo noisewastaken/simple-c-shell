@@ -3,6 +3,8 @@
 #define EXIT_FAILURE 1
 #define EXIT_SUCCESS 0
 
+// This is not the completed project. I will be committing more soon.
+
 int main(int argc, char **argv)
 {
     lsh_loop();
